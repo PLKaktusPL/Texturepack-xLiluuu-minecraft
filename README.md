@@ -4,7 +4,6 @@ Lekki custom resourcepack do Minecrafta.
 Zmienione są wybrane elementy gry – od dźwięków, przez GUI, po specjalny wygląd totemu.  
 
 ## ✨ Features
-- 🛡️ Custom Totem of Undying – nowy wygląd
 - 🔠 GUI – częściowo zmienione (~30%), w tym czcionka/renderowanie tekstu
 - 🖌️ Ikona + opis paczki – własne pack.png i pack.mcmeta
 
