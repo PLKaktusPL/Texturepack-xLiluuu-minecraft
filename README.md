@@ -16,6 +16,6 @@ Zmienione są wybrane elementy gry – od dźwięków, przez GUI, po specjalny w
 3. Włącz paczkę w menu gry.
 
 ## ⚡ Kompatybilność
-- Minecraft 1.20.4
+- Minecraft 1.21.10
 - Działa w Singleplayer i Multiplayer (client-side)
 - Menu główne nie działa w launcherach typu: Feather, Lunar itp. ale reszta działa bez problemu
